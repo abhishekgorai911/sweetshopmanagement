@@ -1,7 +1,7 @@
 #  Sweet Shop Management System
 
 
-The **Kanha Sweet Shop Management System** is a console-based application designed to digitize the manual operations of a retail sweet shop. Traditional ledger-keeping is prone to human error, data redundancy, and lack of insights.
+The **Sweet Shop Management System** is a console-based application designed to digitize the manual operations of a retail sweet shop. Traditional ledger-keeping is prone to human error, data redundancy, and lack of insights.
 
 This project solves these issues by providing a centralized platform to:
 * Maintain an accurate inventory of sweets, prices, and stock levels.
